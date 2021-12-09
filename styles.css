@@ -1,0 +1,24 @@
+html {
+  background-color: rgb(210, 171, 253);
+}
+h1{font-family: "Monaco";
+  text-align: center;
+  word-spacing: 10px; 
+  color: rgb(98, 65, 134);
+}     
+
+#shadow-text{
+  text-shadow: 2px 2px 4px #111111;
+}
+h2 {font-family:"Papyrus";
+  color: rgb(90, 19, 83);
+    text-align: left;
+  text-decoration: underline;}
+p {font-size: 18px;
+  text-align: center;
+font-family: fantasy;
+  color: rgb(90, 60, 83);
+}
+h4 { color: rgb(67, 19, 83);
+    font-family:"Papyrus";
+}
